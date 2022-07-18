@@ -1,4 +1,4 @@
-### Hi there 👋
+### P4perf4ce's github
 
 <!--
 **p4perf4ce/p4perf4ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Another random research engineer you can find anywhere. 
+I'm mostly working on machine learning, deep learning and literally anything that catch my interests. There're those random code and whatever you can find here, useful and whatsnot.
+
+📫: amrest.c@outlook.com
