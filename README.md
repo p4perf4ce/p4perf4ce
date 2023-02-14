@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Another random research engineer you can find anywhere. 
-I'm mostly working on machine learning, deep learning and literally anything that catch my interests. There're those random code and whatever you can find here, useful and whatsnot.
+I'm mostly working on machine learning, deep learning and literally anything that catch my interests.
 
 🔭 Currently working on XAI on Biosignals.
 
