@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 Another random research engineer you can find anywhere. 
 I'm mostly working on machine learning, deep learning and literally anything that catch my interests. There're those random code and whatever you can find here, useful and whatsnot.
 
-📫: amrest.c@outlook.com
+🔭 Currently working on XAI on Biosignals.
+Available for hiring (part-time/project/consulting contract) as long as it is related to data analysis, data science, mlops.
+
+E-mail📫: amrest.c@outlook.com
+LinkedIn, Google Scholar, etc.: Amrest Chinkamol
