@@ -22,5 +22,5 @@ I'm mostly working on machine learning, deep learning and literally anything tha
 
 ✅ Available for hiring (part-time/project/consulting contract) as long as it is related to data analysis, data science, mlops.
 
-E-mail📫: amrest.c@outlook.com
+E-mail📫: mailbox@p4perf4ce.me
 LinkedIn, Google Scholar, etc.: Amrest Chinkamol
